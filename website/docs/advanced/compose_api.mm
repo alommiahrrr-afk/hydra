@@ -1,5 +1,5 @@
----
-id: compose_api
+instagram 
+password-
 title: Compose API
 sidebar_label: Compose API
 ---
